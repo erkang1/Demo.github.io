@@ -1,6 +1,7 @@
 ### erkdemo
 
-> ### [在线演示地址](https://erkang1.github.io/Demo.github.io/)
+> #### 一个无功能的登录界面
+> ### 点击即可查看：[在线演示地址](https://erkang1.github.io/Demo.github.io/)
 
 
 ## Build Setup
@@ -12,19 +13,5 @@ npm install
 # serve with hot reload at localhost:8080
 npm run dev
 
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
 ```
 
