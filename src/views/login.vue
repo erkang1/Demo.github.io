@@ -105,6 +105,7 @@ export default {
   color: white;
   font-size: 20px;
   margin-top: 30px;
+  cursor: pointer;
 }
 .BtmTip{
   font-size: 14px;
