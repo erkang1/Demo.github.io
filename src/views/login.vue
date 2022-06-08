@@ -6,7 +6,7 @@
       <div class="LoginBgIcon"></div>
     </div>
     <div class="LoginBox" :class="{active:isLogin}">
-      <div class="title">登 录</div>
+      <div class="title">Demo</div>
       <div class="LoginForm">
         <input type="text" class="LoginInput" placeholder="请输入用户名" v-model="form.username">
         <input type="password" class="LoginInput" placeholder="请输入密码" v-model="form.userpwd">
