@@ -69,7 +69,7 @@ export default {
   border-radius: 10px;
   position: absolute;
   top: 30%;
-  right: 20%;
+  right: 15%;
   box-shadow: 0 0 50px #ece9e9
 }
 .title{
@@ -84,6 +84,7 @@ export default {
 .LoginForm{
   margin-top: 35px;
 }
+
 .LoginForm .LoginInput{
   width: 80%;
   height: 40px;
